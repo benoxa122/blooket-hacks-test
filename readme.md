@@ -1,4 +1,4 @@
-<h1>copythis code:(() => {
+<h1>copythis code:  javascript(() => {
     const cheat = (async () => {
         let n = document.createElement('iframe');
         document.body.append(n);
